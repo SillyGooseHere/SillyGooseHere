@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SillyGooseHere
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning C++ & Unreal
+- 🌱 I’m currently learning bits of everything
 
 <!---
 SillyGooseHere/SillyGooseHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
